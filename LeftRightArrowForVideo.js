@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Add left/right arrow hotkey to backward/forward 5 seconds for chrome's default video player. For example, videos on twitter or personal site
 // @author       butaixianran
+// @homepage     https://github.com/butaixianran/LeftRightArrowForVideo
 // @match        *://*/*
 // @exclude      *://*.youtube.com/*
 // @exclude      *://vimeo.com/*
