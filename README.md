@@ -8,5 +8,5 @@ Make sure you have Tampermonkey installed on your chrome.
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 Then you can install this user script from:  
-https://greasyfork.org/zh-CN/scripts/420646-leftrightarrowforvideo
+https://greasyfork.org/scripts/420646-leftrightarrowforvideo
 
