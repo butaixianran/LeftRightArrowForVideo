@@ -10,3 +10,6 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 Then you can install this user script from:  
 https://greasyfork.org/scripts/420646-leftrightarrowforvideo
 
+# Similar Chrome Extension
+**Universal Video Player Controls**  
+https://chrome.google.com/webstore/detail/universal-video-player-co/ppdnkejgcieghdpjnjokjeefbojbjdaa
